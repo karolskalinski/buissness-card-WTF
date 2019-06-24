@@ -34,10 +34,9 @@ body {
     line-height: 22px;
 }
 
-.person__description--last{
+.person__description--last {
     margin-bottom: 0;
 }
-
 
 .person__link {
     color: #E20613;
@@ -62,6 +61,7 @@ body {
 
 .person__photo {
     margin-right: 32px;
+    border-radius: 50%;
 }
 
 .person__special {
